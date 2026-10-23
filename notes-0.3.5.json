@@ -1,0 +1,12 @@
+{
+  "kind": "design",
+  "mandatory": false,
+  "title": {"fr": "Meridian, à votre image", "en": "Meridian, your way"},
+  "summary": {"fr": "Un nouvel espace Personnaliser : choisissez le fond de votre page d’accueil, les couleurs du ciel, le thème et le style du titre. Tout se prévisualise en direct.", "en": "A new Customize space: pick your home page backdrop, the sky’s colours, the theme and the title style. Everything previews live."},
+  "highlights": [
+    {"symbol": "photo.on.rectangle.angled", "title": {"fr": "Des fonds vivants", "en": "Living backdrops"}, "text": {"fr": "Aurore boréale, nuit étoilée, dunes, océan, braise… ou votre propre photo.", "en": "Northern lights, starry night, dunes, ocean, ember… or your own photo."}},
+    {"symbol": "paintpalette", "title": {"fr": "Le ciel à vos couleurs", "en": "Your colours in the sky"}, "text": {"fr": "Des teintes prêtes à l’emploi ou deux couleurs choisies à la main.", "en": "Ready-made shades or two colours of your choice."}},
+    {"symbol": "circle.lefthalf.filled", "title": {"fr": "Clair, sombre ou auto", "en": "Light, dark or auto"}, "text": {"fr": "Meridian suit le Mac, ou garde le thème que vous préférez.", "en": "Meridian follows the Mac, or keeps the theme you prefer."}},
+    {"symbol": "textformat", "title": {"fr": "Votre style de titre", "en": "Your title style"}, "text": {"fr": "Élégant, moderne ou doux, et un accueil épuré si vous le voulez.", "en": "Elegant, modern or soft, and a cleaner home page if you like."}}
+  ]
+}
