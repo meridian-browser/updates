@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Meridian</title>
+    <description>Meridian updates, by Meridian Studio</description>
+    <language>fr</language>
+    <item>
+      <title>Meridian 0.3.4</title>
+      <pubDate>Fri, 23 Oct 2026 12:12:20 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">{"payload": "eyJidWlsZCI6IjciLCJoaWdobGlnaHRzIjpbeyJzeW1ib2wiOiJhcnJvdy50cmlhbmdsZS4yLmNpcmNsZXBhdGgiLCJ0ZXh0Ijp7ImVuIjoiTm8gbmVlZCB0byBkb3dubG9hZCBNZXJpZGlhbiBmcm9tIHRoZSBzaXRlIGFnYWluLiIsImZyIjoiUGx1cyBiZXNvaW4gZGUgcmV0w6lsw6ljaGFyZ2VyIE1lcmlkaWFuIHN1ciBsZSBzaXRlLiJ9LCJ0aXRsZSI6eyJlbiI6Ik9uZS1jbGljayB1cGRhdGVzIiwiZnIiOiJNaXNlcyDDoCBqb3VyIGVuIHVuIGNsaWMifX0seyJzeW1ib2wiOiJjaGVja21hcmsuc2VhbCIsInRleHQiOnsiZW4iOiJUaGUgc2lnbmF0dXJlIGlzIGNoZWNrZWQgYmVmb3JlIGFueXRoaW5nIGluc3RhbGxzLiIsImZyIjoiTGEgc2lnbmF0dXJlIGVzdCBjb250csO0bMOpZSBhdmFudCB0b3V0ZSBpbnN0YWxsYXRpb24uIn0sInRpdGxlIjp7ImVuIjoiVmVyaWZpZWQgb24geW91ciBNYWMiLCJmciI6IlbDqXJpZmnDqWUgc3VyIHZvdHJlIE1hYyJ9fV0sImtpbmQiOiJmaXgiLCJtYW5kYXRvcnkiOmZhbHNlLCJzdW1tYXJ5Ijp7ImVuIjoiVGhpcyB2ZXJzaW9uIGFycml2ZXMgc3RyYWlnaHQgaW4gTWVyaWRpYW4sIHdpdGggbm90aGluZyB0byBkb3dubG9hZCB5b3Vyc2VsZi4gSXQgd2FzIHNpZ25lZCBieSBNZXJpZGlhbiBTdHVkaW8gYW5kIHZlcmlmaWVkIG9uIHlvdXIgTWFjIGJlZm9yZSBpbnN0YWxsaW5nLiIsImZyIjoiQ2V0dGUgdmVyc2lvbiBhcnJpdmUgZGlyZWN0ZW1lbnQgZGFucyBNZXJpZGlhbiwgc2FucyByaWVuIHTDqWzDqWNoYXJnZXIgdm91cy1tw6ptZS4gRWxsZSBhIMOpdMOpIHNpZ27DqWUgcGFyIE1lcmlkaWFuIFN0dWRpbyBldCB2w6lyaWZpw6llIHN1ciB2b3RyZSBNYWMgYXZhbnQgZOKAmcOqdHJlIGluc3RhbGzDqWUuIn0sInRpdGxlIjp7ImVuIjoiVGhlIGZpcnN0IHJlbW90ZSB1cGRhdGUiLCJmciI6IkxhIHByZW1pw6hyZSBtaXNlIMOgIGpvdXIgw6AgZGlzdGFuY2UifSwidmVyc2lvbiI6IjAuMy40In0=", "signature": "hbMVvPOuMy7QH5WGqU8z9dPmprZ7bDDhjMke4AHRwFpYNFrKjle44DLeisIaUHiJlj3iaY9weTbd3cQCrxQYCw=="}</description>
+      <enclosure url="https://meridian-browser.github.io/updates/Meridian-0.3.4-beta.dmg" length="17027072" type="application/octet-stream" sparkle:edSignature="rGDX6K7QsuZ8zhJIxnrzxjgMm26rymr8wQOuJ6LGXNQpaMQRBJg1JOTCc8ApeNisWVvrVbi/KJ22g2FcOALoBg==" />
+    </item>
+  </channel>
+</rss>

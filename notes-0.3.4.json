@@ -1,0 +1,10 @@
+{
+  "kind": "fix",
+  "mandatory": false,
+  "title": {"fr": "La première mise à jour à distance", "en": "The first remote update"},
+  "summary": {"fr": "Cette version arrive directement dans Meridian, sans rien télécharger vous-même. Elle a été signée par Meridian Studio et vérifiée sur votre Mac avant d’être installée.", "en": "This version arrives straight in Meridian, with nothing to download yourself. It was signed by Meridian Studio and verified on your Mac before installing."},
+  "highlights": [
+    {"symbol": "arrow.triangle.2.circlepath", "title": {"fr": "Mises à jour en un clic", "en": "One-click updates"}, "text": {"fr": "Plus besoin de retélécharger Meridian sur le site.", "en": "No need to download Meridian from the site again."}},
+    {"symbol": "checkmark.seal", "title": {"fr": "Vérifiée sur votre Mac", "en": "Verified on your Mac"}, "text": {"fr": "La signature est contrôlée avant toute installation.", "en": "The signature is checked before anything installs."}}
+  ]
+}
