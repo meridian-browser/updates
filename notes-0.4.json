@@ -1,0 +1,12 @@
+{
+  "kind": "feature",
+  "mandatory": false,
+  "title": {"fr": "Voici Meridian AI", "en": "Meet Meridian AI"},
+  "summary": {"fr": "Posez une question : Meridian AI cherche sur Internet, lit les meilleures sources et vous répond en citant chacune, directement dans Meridian. L’IA tourne sur votre Mac.", "en": "Ask a question: Meridian AI searches the web, reads the best sources and answers with a citation for each, right inside Meridian. The AI runs on your Mac."},
+  "highlights": [
+    {"symbol": "sparkle.magnifyingglass", "title": {"fr": "Cherche pour vous", "en": "Searches for you"}, "text": {"fr": "Google, puis la lecture des pages, sans ouvrir un seul onglet.", "en": "Google, then reading the pages, without opening a single tab."}},
+    {"symbol": "quote.bubble", "title": {"fr": "Des réponses sourcées", "en": "Answers with sources"}, "text": {"fr": "Chaque affirmation renvoie à sa source [1], que vous pouvez ouvrir d’un clic.", "en": "Every statement points to its source [1], one click away."}},
+    {"symbol": "lock.laptopcomputer", "title": {"fr": "Sur votre Mac", "en": "On your Mac"}, "text": {"fr": "La rédaction est faite par Apple Intelligence, en local. Aucune donnée envoyée à une société d’IA.", "en": "Writing is done by Apple Intelligence, on the Mac. Nothing goes to an AI company."}},
+    {"symbol": "doc.text.magnifyingglass", "title": {"fr": "Cette page, vos notes", "en": "This page, your notes"}, "text": {"fr": "Interrogez la page ouverte, ou faites une fiche de révision depuis votre Carnet.", "en": "Ask about the open page, or make a revision sheet from your Notebook."}}
+  ]
+}
